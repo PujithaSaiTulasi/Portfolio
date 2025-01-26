@@ -366,7 +366,7 @@ export const projects = [
     description:
       "Conceptualized NUWorld, a centralized communication platform for Northeastern University campuses, designed to streamline fragmented communication channels by consolidating 10 platforms into one, improving information dissemination speed by 50%. Leading the planning and development efforts, I created essential project artifacts, including a Work Breakdown Structure (WBS) with over 100 tasks, a Gantt chart featuring 10+ milestones, a PERT chart detailing dependencies among 40 tasks, financial plans managing a $500,000 budget with a 5% variance, a RACI matrix, and resource allocation for a team of 20 members and 1,000 man-hours. I designed five detailed UML diagrams to illustrate app flows to enhance project clarity and reduce development ambiguity by 60%. Additionally, I conducted comprehensive risk analyses, identifying and mitigating 10 potential risks through SWOT analysis, FMEA, and a risk assessment matrix, which reduced project delay risks by 30%.",
     image:
-      "https://private-user-images.githubusercontent.com/54580614/406703499-920ae495-015b-4d31-81ff-23d607962477.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzc4NjIzODUsIm5iZiI6MTczNzg2MjA4NSwicGF0aCI6Ii81NDU4MDYxNC80MDY3MDM0OTktOTIwYWU0OTUtMDE1Yi00ZDMxLTgxZmYtMjNkNjA3OTYyNDc3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTI2VDAzMjgwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdiYjQzMDcwZGZjYzlhNTlkM2I0MWJmMTRmZmU2YzlhMWE5MjdlM2Q2NmNhM2ZmMGFiOGVkODc4OTM2MjRjZDMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Ie0r1PO48qr9fgrIgHjQZ3uLXYwXjUW13m3eizuLEP0",
+      "https://coamplifi.com/wp-content/uploads/2021/03/How-to-Introduce-Your-Team-to-Project-Management-Software.jpeg",
     tags: [
       "Project Planning",
       "Technical Documentation",
@@ -387,7 +387,7 @@ export const projects = [
     description:
       "I led the orchestration of NarrativeFlicks, an innovative storytelling app project associated with Northeastern University. I guided a team through market research that surveyed 100 potential users and analyzed 10 competing apps to shape the project’s direction. I created three lean business models projecting a 20% ROI within the first year. I developed detailed marketing and product specification documents by incorporating feedback from five stakeholders, achieving 95% alignment with stakeholder requirements through a V&V test matrix with 100+ test cases. Additionally, I designed and executed a prototype and test plan, refining the app concept iteratively based on feedback from 30 beta testers. By managing project schedules, completing milestones 15% ahead of schedule, and facilitating bi-weekly stakeholder meetings with 90% attendance and a 95% satisfaction rate, I ensured the project remained on track and met its objectives effectively.",
     image:
-      "https://private-user-images.githubusercontent.com/54580614/406704106-e99c7d15-031b-4112-a01d-92c231847f35.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzc4NjM0MjMsIm5iZiI6MTczNzg2MzEyMywicGF0aCI6Ii81NDU4MDYxNC80MDY3MDQxMDYtZTk5YzdkMTUtMDMxYi00MTEyLWEwMWQtOTJjMjMxODQ3ZjM1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTI2VDAzNDUyM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZhYzVkOTRkY2IxM2ZhYjEyN2FjNTIyODRiMzExYTIyOWZjMWQ3Y2ZkMDg5YzAzNDc5MTBhNTMxYTJjZmYwNjImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ll9sot3pgYK2QGs1FD6Ol6ftAgSapLsvSM_e1tqnSqk",
+      "https://t4.ftcdn.net/jpg/05/82/81/21/360_F_582812109_q3mO7bSo5YOvURxrGOD5ZD25DhXRJA5A.jpg",
     tags: [
       "User Research",
       "Market Analysis",
@@ -408,7 +408,7 @@ export const projects = [
     description:
       "I developed a Student Stress Level Calculator as part of a project at Northeastern University, conducting a comprehensive survey with 25 indicator questions on stress levels, achieving a 70% response rate. The project analyzed various factors contributing to student stress, including academics, finances, health, and work-related challenges, using Looker and Hypothesis Testing. I created an interactive real-time dashboard for in-depth statistical analysis, examining mean stress levels, population proportions, and confidence intervals. The analysis revealed that financial stress was the most significant factor, accounting for 45% of the reported stress levels, providing actionable insights to address student well-being effectively.",
     image:
-      "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcalculatorcentral.com%2Fhealth-and-wellness-calculators%2Fstress-level-calculator%2F&psig=AOvVaw1SgHvrhmiLKME47rPtG0Ri&ust=1737950072407000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNju09y-kosDFQAAAAAdAAAAABAE",
+      "https://calculatorcentral.com/assets/img/stress-level-calculator.png",
     tags: [
       "Dashboard Metrics",
       "Data Analysis",
