@@ -7,7 +7,7 @@ export const Bio = {
     "Mentor"
   ],
   description:
-    "I am a Software Engineer with strong foundation in Coding and Problem Solving. I specialize in designing innovative, scalable, and efficient solutions. Over two years of experience have honed my skills in backend and frontend development, automation frameworks, and delivering seamless user experiences. My expertise spans diverse technologies, including Django, React, Swift, AWS, and testing tools like Pytest, Rest Assured, and Playwright. From developing robust automation frameworks to creating dynamic real-time applications, I am driven by a passion for efficiency and user satisfaction. I thrive on building scalable solutions and driving efficiency. With a growth mindset and passion for innovation, I'm eager to tackle new challenges and deliver impactful results.",
+    "I am a Software Engineer with a strong foundation in Coding and Problem Solving. I specialize in designing innovative, scalable, and efficient solutions. Over two years of experience have honed my skills in backend and frontend development, automation frameworks, and delivering seamless user experiences. My expertise spans diverse technologies, including Django, React, Swift, AWS, and testing tools like Pytest, Rest Assured, and Playwright. From developing robust automation frameworks to creating dynamic real-time applications, I am driven by a passion for efficiency and user satisfaction. I thrive on building scalable solutions and driving efficiency. With a growth mindset and passion for innovation, I'm eager to tackle new challenges and deliver impactful results.",
   github: "https://github.com/PujithaSaiTulasi",
   resume:
     "",
@@ -199,6 +199,7 @@ export const experiences = [
       "Appium",
       "Playwright",
       "Jenkins CI/CD",
+      "Kubernetes",
       "Jira",
       "Postman",
       "Swagger",
@@ -211,10 +212,14 @@ export const experiences = [
     role: "Software Engineer",
     company: "Bright Money",
     date: "Jun 2021 - Jul 2022",
-    desc: "At Bright Money, I designed and implemented a Backend API Automation framework for user onboarding, reducing onboarding time by 95% and enhancing efficiency. I worked on over 20 cross-functional projects focused on improving user experience, engagement, and retention. Leading key initiatives like Referrals and Credit Score Utilization, I drove a significant increase in daily enrollments, achieving a remarkable 2,000+ daily user sign-up rate. I also conducted A/B testing for various user engagement projects, boosting key metrics such as click-through rates, session durations, and conversions. My contributions were instrumental in delivering data-driven improvements that elevated user interaction and satisfaction. My efforts were recognized with awards such as “Metrics Master” for delivering data-driven results and “Sprint Star” for exceptional team leadership and project execution.",
+    desc: "At Bright Money, I spearheaded the design and implementation of an end-to-end Credit Facility Management System using Python, Django, Celery, Airflow, S3, and Kafka, seamlessly integrating Encina with internal products to enable efficient loan provisioning for US customers. I architected and deployed a Workflow Management System (Django, ReactJS, MaterialUI, Postgres) on EC2, streamlining integrations with banking, core backend, and machine learning systems to automate user communication and operational activities, boosting productivity. Additionally, I developed a Growth & Ads Management System, building data engineering pipelines that delivered actionable insights on user acquisition trends and ad performance every hour, facilitating data-driven decision-making and outage detection. By engineering a Backend API Automation Framework for user onboarding with Python and PyTest, I reduced onboarding time by 95%, expediting testing and enhancing efficiency. I led over 20 cross-functional projects, including initiatives like Referrals and Credit Score Utilization, which significantly improved user engagement and retention, driving daily enrollments to over 2,000 users. Through A/B testing, I optimized key user engagement metrics such as click-through rates, session durations, and conversions. Recognized with awards like “Metrics Master” and “Sprint Star” for my data-driven results and exceptional leadership, I also conducted code reviews, mentored eight junior team members, resolved critical technical issues, led production releases, and organized team bonding events, ensuring a collaborative and high-performing work environment.",
     skills: [
       "Python",
       "Django",
+      "Airflow",
+      "Celery",
+      "Kafka",
+      "Docker",
       "Pytest",
       "SQLite",
       "API Testing",
@@ -331,6 +336,69 @@ export const projects = [
   },
   {
     id: 5,
+    title: "NUWorld - One Stop App for Huskies",
+    date: "Feb 2024",
+    description:
+      "Conceptualized NUWorld, a centralized communication platform for Northeastern University campuses, designed to streamline fragmented communication channels by consolidating 10 platforms into one, improving information dissemination speed by 50%. Leading the planning and development efforts, I created essential project artifacts, including a Work Breakdown Structure (WBS) with over 100 tasks, a Gantt chart featuring 10+ milestones, a PERT chart detailing dependencies among 40 tasks, financial plans managing a $500,000 budget with a 5% variance, a RACI matrix, and resource allocation for a team of 20 members and 1,000 man-hours. I designed five detailed UML diagrams to illustrate app flows to enhance project clarity and reduce development ambiguity by 60%. Additionally, I conducted comprehensive risk analyses, identifying and mitigating 10 potential risks through SWOT analysis, FMEA, and a risk assessment matrix, which reduced project delay risks by 30%.",
+    image:
+      "https://private-user-images.githubusercontent.com/54580614/406703499-920ae495-015b-4d31-81ff-23d607962477.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzc4NjIzODUsIm5iZiI6MTczNzg2MjA4NSwicGF0aCI6Ii81NDU4MDYxNC80MDY3MDM0OTktOTIwYWU0OTUtMDE1Yi00ZDMxLTgxZmYtMjNkNjA3OTYyNDc3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTI2VDAzMjgwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdiYjQzMDcwZGZjYzlhNTlkM2I0MWJmMTRmZmU2YzlhMWE5MjdlM2Q2NmNhM2ZmMGFiOGVkODc4OTM2MjRjZDMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Ie0r1PO48qr9fgrIgHjQZ3uLXYwXjUW13m3eizuLEP0",
+    tags: [
+      "Project Planning",
+      "Technical Documentation",
+      "Budgeting",
+      "Project Management",
+      "Stakeholder Management",
+      "Project Scheduling",
+      "Risk Analysis",
+      "Resource Management",
+    ],
+    github: "https://github.com/PujithaSaiTulasi/NUWorld",
+    webapp: "",
+  },
+  {
+    id: 6,
+    title: "NarrativeFlicks",
+    date: "Jan 2024",
+    description:
+      "I led the orchestration of NarrativeFlicks, an innovative storytelling app project associated with Northeastern University. I guided a team through market research that surveyed 100 potential users and analyzed 10 competing apps to shape the project’s direction. I created three lean business models projecting a 20% ROI within the first year. I developed detailed marketing and product specification documents by incorporating feedback from five stakeholders, achieving 95% alignment with stakeholder requirements through a V&V test matrix with 100+ test cases. Additionally, I designed and executed a prototype and test plan, refining the app concept iteratively based on feedback from 30 beta testers. By managing project schedules, completing milestones 15% ahead of schedule, and facilitating bi-weekly stakeholder meetings with 90% attendance and a 95% satisfaction rate, I ensured the project remained on track and met its objectives effectively.",
+    image:
+      "https://private-user-images.githubusercontent.com/54580614/406704106-e99c7d15-031b-4112-a01d-92c231847f35.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzc4NjM0MjMsIm5iZiI6MTczNzg2MzEyMywicGF0aCI6Ii81NDU4MDYxNC80MDY3MDQxMDYtZTk5YzdkMTUtMDMxYi00MTEyLWEwMWQtOTJjMjMxODQ3ZjM1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTI2VDAzNDUyM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZhYzVkOTRkY2IxM2ZhYjEyN2FjNTIyODRiMzExYTIyOWZjMWQ3Y2ZkMDg5YzAzNDc5MTBhNTMxYTJjZmYwNjImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ll9sot3pgYK2QGs1FD6Ol6ftAgSapLsvSM_e1tqnSqk",
+    tags: [
+      "User Research",
+      "Market Analysis",
+      "V&V Test Plan",
+      "Competitive Analysis",
+      "Stakeholder Management",
+      "Product Specification",
+      "Market Research",
+      "Market Specification",
+    ],
+    github: "https://github.com/PujithaSaiTulasi/NarrativeFlicks",
+    webapp: "",
+  },
+  {
+    id: 7,
+    title: "Student Stress Level Calculator using Looker and Random Forest Model",
+    date: "Oct 2023",
+    description:
+      "I developed a Student Stress Level Calculator as part of a project at Northeastern University, conducting a comprehensive survey with 25 indicator questions on stress levels, achieving a 70% response rate. The project analyzed various factors contributing to student stress, including academics, finances, health, and work-related challenges, using Looker and Hypothesis Testing. I created an interactive real-time dashboard for in-depth statistical analysis, examining mean stress levels, population proportions, and confidence intervals. The analysis revealed that financial stress was the most significant factor, accounting for 45% of the reported stress levels, providing actionable insights to address student well-being effectively.",
+    image:
+      "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcalculatorcentral.com%2Fhealth-and-wellness-calculators%2Fstress-level-calculator%2F&psig=AOvVaw1SgHvrhmiLKME47rPtG0Ri&ust=1737950072407000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNju09y-kosDFQAAAAAdAAAAABAE",
+    tags: [
+      "Dashboard Metrics",
+      "Data Analysis",
+      "Survey Research",
+      "Random Forest",
+      "Hypothesis Testing",
+      "Looker",
+      "Data Visualization",
+      "Data Analysis",
+    ],
+    github: "https://github.com/PujithaSaiTulasi/Student-Stress-Level-Calculator",
+    webapp: "",
+  },
+  {
+    id: 8,
     title: "Social Distance Monitoring System",
     date: "May 2022",
     description:
@@ -347,7 +415,7 @@ export const projects = [
     webapp: "",
   },
   {
-    id: 6,
+    id: 9,
     title: "Movie Recommendation System using Sentiment Analysis",
     date: "Nov 2021",
     description:
