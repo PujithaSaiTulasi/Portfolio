@@ -141,6 +141,31 @@ export const skills = [
     title: "Developer Tools",
     skills: [
       {
+        name: "Docker",
+        image:
+        "https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png"
+      },
+      {
+        name: "Kubernetes",
+        image:
+        "https://static-00.iconduck.com/assets.00/kubernetes-icon-2048x1995-r1q3f8n7.png"
+      },
+      {
+        name: "Airflow",
+        image:
+        "https://static-00.iconduck.com/assets.00/airflow-icon-2048x2048-ptyvisqh.png"
+      },
+       {
+        name: "Kafka",
+        image:
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Apache_kafka-icon.svg/1200px-Apache_kafka-icon.svg.png"
+      },
+       {
+        name: "Celery",
+        image:
+        "https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png"
+      },
+      {
         name: "XCode",
         image:
         "https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png"
