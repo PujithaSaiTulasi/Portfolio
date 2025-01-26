@@ -158,7 +158,7 @@ export const skills = [
        {
         name: "Kafka",
         image:
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Apache_kafka-icon.svg/1200px-Apache_kafka-icon.svg.png"
+        "https://svn.apache.org/repos/asf/kafka/site/logos/originals/png/ICON%20-%20White%20on%20Transparent.png"
       },
        {
         name: "Celery",
